@@ -1,0 +1,11 @@
+
+There is no previous '{' to match a '}' on line 7
+7: }
+   ^
+
+Final nesting depth of '['s is 1
+The most recent un-matched '[' is on line 5
+5: } else [
+          ^
+7:	To see 2 non-critical warnings rerun with -w
+7:	To save a full .LOG file rerun with -g
